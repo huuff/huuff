@@ -7,6 +7,8 @@
 - 📫 How to reach me: **don't**
 - 😄 Pronouns: **none, address me in second person only and never talk behind my back**
 - ⚡ Fun fact: **born to die, world is a fuck, I am trash man**
+-----
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huuff&layout=compact&langs_count=20">
