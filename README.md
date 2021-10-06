@@ -9,6 +9,5 @@
 - ⚡ Fun fact: **born to die, world is a fuck, I am trash man**
 
 Vanity metrics:  
-[![Haf's GitHub stats](https://github-readme-stats.vercel.app/api?username=huuff)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huuff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huuff&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
