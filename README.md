@@ -8,5 +8,7 @@
 - 😄 Pronouns: **none, address me in second person only and never talk behind my back**
 - ⚡ Fun fact: **born to die, world is a fuck, I am trash man**
 
-Vanity metrics:
+Vanity metrics:  
 [![Haf's GitHub stats](https://github-readme-stats.vercel.app/api?username=huuff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huuff)](https://github.com/anuraghazra/github-readme-stats)
+
