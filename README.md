@@ -1,5 +1,5 @@
 ### Hi there 👋  
-##### Nix stuff
+#### Nix stuff
 * [nix-config](https://github.com/huuff/nix-config): All of my NixOS configurations
 * [dronix](https://github.com/huuff/dronix): Drone CI module
 
