@@ -5,7 +5,7 @@
 
 #### Kubernetes stuff
 * [facilit8s](https://github.com/huuff/facilit8s): Just a bunch of misc. stuff I like in my clusters
-* [secur8](https://github.com/huuff/secur8): Random assorted of unpolished security tools
+* [secur8](https://github.com/huuff/secur8): Random assortment of unpolished security tools
 * [sensible-kubeadm](https://github.com/huuff/sensible-kubeadm): A not very flexible script to bootstrap a Hetzner cluster
 * [k8s-apps](https://github.com/huuff/k8s-apps): Charts for emanote, gotify, ssh keys and random stuff. Unfinished and unpolished, should likely separate it into several repos
 
