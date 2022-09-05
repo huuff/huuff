@@ -2,7 +2,7 @@
 #### Nix stuff
 * [nix-config](https://github.com/huuff/nix-config): All of my NixOS configurations
 * [dronix](https://github.com/huuff/dronix): Drone CI module
-* [nix-aliases](https://github.com/huuff/nix-aliases): Tiny Home Manager module to set your shell aliases across all enabled shells
+* [nix-portable-shell](https://github.com/huuff/nix-portable-shell): Tiny Home Manager module to configure all your shells in one go
 
 #### Kubernetes stuff
 * [facilit8s](https://github.com/huuff/facilit8s): Just a bunch of misc. stuff I like in my clusters
