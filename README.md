@@ -1,4 +1,8 @@
 ### Hi there 👋  
+
+#### Shell stuff
+* [shell-completions](https://github.com/huuff/shell-completions): Completion scripts for the shell
+
 #### Nix stuff
 * [nix-config](https://github.com/huuff/nix-config): All of my NixOS configurations
 * [dronix](https://github.com/huuff/dronix): Drone CI module
