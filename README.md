@@ -14,6 +14,11 @@
 * [sensible-kubeadm](https://github.com/huuff/sensible-kubeadm): A not very flexible script to bootstrap a Hetzner cluster
 * [k8s-apps](https://github.com/huuff/k8s-apps): Charts for emanote, gotify, ssh keys and random stuff. Unfinished and unpolished, should likely separate it into several repos
 
+#### Kotlin stuff
+* [siths](https://github.com/huuff/siths): Coroutines-based Redis client
+* [mekachis](https://github.com/huuff/mekachis): Abstractions and implementations for caching
+* [koy](https://github.com/huuff/koy): General-purpose Kotlin library
+
 #### Cool metrics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huuff&layout=compact&langs_count=20">
