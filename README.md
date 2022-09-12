@@ -17,7 +17,7 @@
 #### Kotlin stuff
 * [siths](https://github.com/huuff/siths): Coroutines-based Redis client
 * [mekachis](https://github.com/huuff/mekachis): Abstractions and implementations for caching
-* [koy](https://github.com/huuff/koy): General-purpose Kotlin library
+* [koy](https://github.com/huuff/koy): General purpose Kotlin library
 
 #### Cool metrics
 <p align="center">
