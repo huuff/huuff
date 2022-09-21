@@ -19,8 +19,9 @@
 * [k8s-apps](https://github.com/huuff/k8s-apps): Charts for emanote, gotify, ssh keys and random stuff. Unfinished and unpolished, should likely separate it into several repos
 
 #### Newer, cooler stuff
-* [kubectl-inline](https://github.com/huuff/kubectl-inline): `kubectl` plugin to quickly create Kubernetes resources from the command line.
 * [swagger-ui-chart](https://github.com/huuff/swagger-ui-chart): Helm chart to deploy a Swagger UI for a bunch of APIs that's synced to their git repositories.
+* [helm-charts](https://github.com/huuff/helm-charts): Repo for my helm charts.
+* [kubectl-inline](https://github.com/huuff/kubectl-inline): `kubectl` plugin to quickly create Kubernetes resources from the command line.
 
 ### Kotlin stuff
 * [siths](https://github.com/huuff/siths): Coroutines-based Redis client
