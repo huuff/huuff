@@ -1,7 +1,8 @@
 ### Hi there 👋  
 
-### Shell stuff
+### Command-line stuff
 * [shell-completions](https://github.com/huuff/shell-completions): Completion scripts for the shell
+* [casey](https://github.com/huuff/casey): Small tool to detect/convert strings in different case formats
 
 ### Nix stuff
 * [nix-config](https://github.com/huuff/nix-config): All of my NixOS configurations
