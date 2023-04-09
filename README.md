@@ -29,6 +29,9 @@
 * [mekachis](https://github.com/huuff/mekachis): Abstractions and implementations for caching
 * [koy](https://github.com/huuff/koy): General purpose Kotlin library
 
+### Spring stuff
+* [spring-testcontainers-annotations](https://github.com/huuff/spring-testcontainers-annotatons): Annotations to reduce boilerplate when using testcontainers in Spring Data tests. (Soon to be deprecated by Spring Boot 3.1.0)
+
 ### Cool metrics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huuff&layout=compact&langs_count=20">
