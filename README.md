@@ -30,7 +30,7 @@
 * [koy](https://github.com/huuff/koy): General purpose Kotlin library
 
 ### Spring stuff
-* [spring-testcontainers-annotations](https://github.com/huuff/spring-testcontainers-annotatons): Annotations to reduce boilerplate when using testcontainers in Spring Data tests. (Soon to be deprecated by Spring Boot 3.1.0)
+* [spring-testcontainers-annotations](https://github.com/huuff/spring-testcontainers-annotations): Annotations to reduce boilerplate when using testcontainers in Spring Data tests. (Soon to be deprecated by Spring Boot 3.1.0)
 
 ### Cool metrics
 <p align="center">
