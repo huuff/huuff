@@ -30,10 +30,10 @@
 * [koy](https://github.com/huuff/koy): General purpose Kotlin library
 
 ### Spring stuff
-* [spring-testcontainers-annotations](https://github.com/huuff/spring-testcontainers-annotations): Annotations to reduce boilerplate when using testcontainers in Spring Data tests. (Soon to be deprecated by Spring Boot 3.1.0)
+* [Spring Testcontainers Annotations](https://github.com/huuff/spring-testcontainers-annotations): Annotations to reduce boilerplate when using testcontainers in Spring Data tests. (Soon to be deprecated by Spring Boot 3.1.0)
 
 ### Sillyness
-* [enterprise-integration-fizzbuzz](https://github.com/huuff/enterprise-integration-fizzbuzz): Distributed, scalable fizzbuzz
+* [Enterprise Integration FizzBuzz](https://github.com/huuff/enterprise-integration-fizzbuz): Distributed, scalable fizzbuzz
 
 ### Cool metrics
 <p align="center">
