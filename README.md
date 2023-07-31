@@ -32,6 +32,9 @@
 ### Spring stuff
 * [spring-testcontainers-annotations](https://github.com/huuff/spring-testcontainers-annotations): Annotations to reduce boilerplate when using testcontainers in Spring Data tests. (Soon to be deprecated by Spring Boot 3.1.0)
 
+### Sillyness
+* [enterprise-integration-fizzbuzz](https://github.com/huuff/enterprise-integration-fizzbuzz): Distributed, scalable fizzbuzz
+
 ### Cool metrics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huuff&layout=compact&langs_count=20">
