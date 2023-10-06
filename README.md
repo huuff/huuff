@@ -34,6 +34,7 @@
 
 ### Toy stuff
 * [Enterprise Integration FizzBuzz](https://github.com/huuff/enterprise-integration-fizzbuz): Distributed, scalable fizzbuzz
+* [Hypermaze](https://github.com/huuff/hypermaze): A hypermedia-driven maze game
 
 ### Cool metrics
 <p align="center">
