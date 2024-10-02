@@ -7,6 +7,7 @@ I had a lot of useless stuff and abandoned projects here, so I cleaned up to kee
 * [nix-config](https://github.com/huuff/nix-config): All of my NixOS configurations
 * [nix-checks](https://github.com/huuff/nix-checks): Check to import into flakes
 * [nix-templates](https://github.com/huuff/nix-templates): Templates to bootstrap projects
+* [nix-templates](https://github.com/huuff/nix-derivations): Some software packaged in nix
 
 ### Cool metrics
 
