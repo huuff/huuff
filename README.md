@@ -5,9 +5,13 @@ I had a lot of useless stuff and abandoned projects here, so I cleaned up to kee
 ### Nix stuff 
 
 * [nix-config](https://github.com/huuff/nix-config): All of my NixOS configurations
-* [nix-checks](https://github.com/huuff/nix-checks): Check to import into flakes
+* [nix-checks](https://github.com/huuff/nix-checks): Ready-made checks to import into flakes
 * [nix-templates](https://github.com/huuff/nix-templates): Templates to bootstrap projects
 * [nix-derivations](https://github.com/huuff/nix-derivations): Some software packaged in nix
+
+### Rust stuff
+
+* [dom-test-lib](https://github.com/huuff/dom-test-lib): Tools for writing tests in wasm-bindgen-based applications
 
 ### Cool metrics
 
