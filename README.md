@@ -4,10 +4,11 @@ I had a lot of useless stuff and abandoned projects here, so I cleaned up to kee
 
 ### Nix stuff 
 
-* [nix-config](https://github.com/huuff/nix-config): All of my NixOS configurations
-* [nix-checks](https://github.com/huuff/nix-checks): Ready-made checks to import into flakes
-* [nix-templates](https://github.com/huuff/nix-templates): Templates to bootstrap projects
-* [nix-derivations](https://github.com/huuff/nix-derivations): Some software packaged in nix
+* [nix-config](https://github.com/huuff/nix-config): All of my NixOS configurations.
+* [nix-checks](https://github.com/huuff/nix-checks): Ready-made checks to import into flakes.
+* [nix-templates](https://github.com/huuff/nix-templates): Templates to bootstrap projects.
+* [nix-derivations](https://github.com/huuff/nix-derivations): Some software I personally use, packaged in nix.
+* [nix-scripts](https://github.com/huuff/nix-scripts): Just my personal scripts, only packaged in nix for ease of distribution and dependency management.
 
 ### Rust stuff
 
