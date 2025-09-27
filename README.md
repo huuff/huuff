@@ -14,6 +14,10 @@ I had a lot of useless stuff and abandoned projects here, so I cleaned up to kee
 
 * [dom-test-lib](https://github.com/huuff/dom-test-lib): Tools for writing tests in wasm-bindgen-based applications
 
+### Apps
+
+* [ghetto-xray](https://github.com/huuff/ghetto-xray): A web app to check the X-Ray of your investment funds and ETFs
+
 ### Cool metrics
 
 <p align="center">
